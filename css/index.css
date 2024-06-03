@@ -110,12 +110,12 @@ i {
   border-radius: 8px;
   padding: 15px 25px;
   color: var(--white);
-  background: var(--primary-color);
+  background: var(--heading-color);
 }
 /*===== Button Style End =====*/
 
 .header {
-  background: var(--primary-color);
+  background: var(--heading-color);
   padding-top: 64px;
 }
 
